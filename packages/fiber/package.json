@@ -43,7 +43,7 @@
     "prebuild": "cp ../../readme.md readme.md"
   },
   "dependencies": {
-    "@babel/runtime": "^7.17.8",
+    "@babel/runtime": "^7.26.10",
     "@types/react-reconciler": "^0.28.9",
     "@types/webxr": "*",
     "base64-js": "^1.5.1",
