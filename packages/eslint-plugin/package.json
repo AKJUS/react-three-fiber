@@ -37,7 +37,7 @@
     ]
   },
   "dependencies": {
-    "@babel/runtime": "^7.17.8",
+    "@babel/runtime": "^7.26.10",
     "eslint": "^8.12.0"
   },
   "devDependencies": {
